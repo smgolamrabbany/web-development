@@ -13,11 +13,11 @@ Let's try to discover the code.
 
 var a = 2;
 var b = 3;
-console.log("before coding", "a=", a, ", b=",b);
+console.log("Before coding", "a=", a, ", b=",b);
 
 [a,b ] = [b,a ];
 
-console.log("after coding", "a=", a, ", b=",b);
+console.log("After coding", "a=", a, ", b=",b);
 
 
 // formula 2:
