@@ -1,0 +1,93 @@
+<style>
+/* 
+* {
+  text-align: center;
+  color: blue;
+}
+ */
+
+h1{
+    color: aqua;
+    background: #ff68f1;
+    height: 50px;
+    width: 500px;
+    text-shadow: 2px 2px;
+}
+
+
+p{
+    color: red;
+}
+.friends{
+    background: #43ff17;
+    width: 50%;
+    font-size: large;
+    font-style: italic;
+    color: black;
+}
+#SYSTEM{
+    background: #747cff;
+    color: black;
+    width: auto}
+h1.friends {
+    font-size: 50px;
+}
+.blog{
+    background: #ebff12;
+}
+.div2{
+    background: #36d6ff;
+    border: dotted;
+    border-radius: 5px;
+    margin: 40px;
+    text-align: right;
+}
+.newdiv{
+    border: groove red;
+    margin: 40px;
+    padding: 20px;
+    text-align: justify;
+}
+
+td, tr {
+    border: solid black;
+    padding: 0 20px;
+  
+}
+
+tr:hover {background-color: coral;} /*This coding will act as a hover. just move the courser on the table row and see the magic. */ 
+
+
+.table{
+    border-collapse: collapse;
+}
+
+.box{
+    width: 400px;
+    border: 5px solid orangered;
+    height: 200px;
+}
+
+.box2{
+    width: 400px;
+    border: 5px solid black;
+    height: 200px;
+}
+
+.box3{
+    width: 400px;
+    height: 200px;
+    border: 10px solid orangered;
+    overflow: scroll;
+}
+
+.box4{
+    width: 400px;
+    height: 200px;
+    border: 10px solid green;
+    overflow: auto;
+    text-indent: 50px; /*this line will give some space to start the line from beginning */ 
+}
+}
+</style>
+
