@@ -1,7 +1,11 @@
 
 /*
-Number swap formula
- */
+Number swap coding. 
+with this coding we will learn about how we can replaced any number to previous variable. 
+we can easily exchanges our variables number from one variable to another variable. 
+
+Let's try to discover the code. 
+*/
 
 
 
