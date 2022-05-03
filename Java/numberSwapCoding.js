@@ -1,6 +1,6 @@
 
 /*
-Number swap coding. 
+Number swap coding. 3 simple coding. 
 with this coding we will learn about how we can replaced any number to previous variable. 
 we can easily exchanges our variables number from one variable to another variable. 
 
