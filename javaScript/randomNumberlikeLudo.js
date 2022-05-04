@@ -33,7 +33,7 @@ See example bellow for details.
 for (var i = 0; i<10; i++){       // this for loop is to show all the random number at once.
     var ludo1=Math.random()*6;    // random number can show within till 6
     var ludo2 = Math.round(ludo1);  // just round the random number by using round attribute
-    console.log(ludo1,ludo2);   // we wants to know before round and after round output.
+    console.log(ludo1,ludo2);   // we wants to know before round and after round output. or if delete the ludo1 and see the output
 }
 
 /*
