@@ -13,7 +13,7 @@ for (var i = 0; i<num.length; i++){
         uniqueNum.push(element);
     }
 }
-
+ 
 console.log(uniqueNum);
 
 
@@ -46,3 +46,7 @@ for (var i = 0; i<randomNum.length; i++){
 }
 
 // Coding is done.
+
+
+
+
